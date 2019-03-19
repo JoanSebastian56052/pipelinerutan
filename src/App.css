@@ -31,3 +31,8 @@
     transform: rotate(360deg);
   }
 }
+
+.MenuPrincipal{
+  text-align: center;
+  margin-top: 3%;
+}
